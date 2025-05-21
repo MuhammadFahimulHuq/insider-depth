@@ -1,6 +1,6 @@
 import React from 'react'
 import goldCoin from '../../assets/goldcoin.svg'
-import blueLabel from '../../assets/blueLabel.svg'
+import blueLabel from '../../assets/bluelabel.svg'
 const PopUpCurrencybar = ({
   popUpColor,
   popUpBgImg,
